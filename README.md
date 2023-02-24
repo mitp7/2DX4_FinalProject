@@ -1,4 +1,4 @@
-# 2DX4 Final Project
+# LIDAR Scanning System Project
 
 ## Project Overview
 
